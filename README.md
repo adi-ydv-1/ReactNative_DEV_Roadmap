@@ -5,6 +5,7 @@
 ###     [react  native interview questions and answers youtube link](https://www.youtube.com/watch?v=-dS9pvGqlX8&t=172s)
 ###     [map to master react native](https://hanno.co/journal/react-native/)
 ###     [React Native architecture](https://medium.com/coox-tech/deep-dive-into-react-natives-new-architecture-fb67ae615ccd)
+###     [React native questions] (https://www.spec-india.com/blog/react-native-developer)
 ## Remote React native Job Portal
 1.Remoteok <br>
 2.Turing   <br>
