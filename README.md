@@ -31,6 +31,11 @@
 9.react native elements <br>
 10.react native paper v2 <br>
 
+## Ways to learn..
+1.Open source contribution
+2.Projects
+3.Upwork..
+
 ## Projects
 1. Crypto app:- 4 hours left for completion..
 2. e-commerce app:-
