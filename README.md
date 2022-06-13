@@ -38,7 +38,7 @@
 3.Upwork..
 
 ## Projects
-1. Crypto app:- 4 hours left for completion..(pending project)
+1. Crypto app:- 4 hours left for completion..(pending project) <br>
 2. e-commerce app:-
 
 ## Open Source Contributions
