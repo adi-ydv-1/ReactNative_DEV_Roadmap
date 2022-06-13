@@ -33,8 +33,8 @@
 10.react native paper v2 <br>
 
 ## Ways to learn..
-1.Open source contribution
-2.Projects
+1.Open source contribution <br>
+2.Projects  <br>
 3.Upwork..
 
 ## Projects
@@ -42,5 +42,5 @@
 2. e-commerce app:-
 
 ## Open Source Contributions
-1.React-native-community
+1.React-native-community  <br>
 2.React-native (official repo)
