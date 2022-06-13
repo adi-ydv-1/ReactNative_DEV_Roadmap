@@ -46,5 +46,5 @@
 2.React-native (official repo)
 
 ## Opened Issues
-1.Vertical borders leave gaps on rounded Views (facebook/react-native)
+1.Vertical borders leave gaps on rounded Views [facebook/react-native](https://github.com/facebook/react-native/issues/33950)
 
