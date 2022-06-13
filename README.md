@@ -44,3 +44,7 @@
 ## Open Source Contributions
 1.React-native-community  <br>
 2.React-native (official repo)
+
+## Opened Issues
+1.Vertical borders leave gaps on rounded Views (facebook/react-native)
+
