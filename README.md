@@ -1,4 +1,12 @@
 # Timeline:- 1 year..
+## Routine...
+## 1. 6 hours a day..
+   ### 1. (1 1/2 hours) react native learning
+   ### 2. (1/2 hours) open source contribution....
+   ### 3. (4 hours) research paper...
+
+
+
 # ReactNative_DEV_Roadmap
 # Please follow [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/) to edit this file<br/>
 ###     [roadmap guide for frontend developer guide Repository](https://github.com/Z8264/frontend-developer-roadmap)
