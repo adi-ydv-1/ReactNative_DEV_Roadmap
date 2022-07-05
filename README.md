@@ -1,9 +1,6 @@
 # Timeline:- 1 year..
 ## Routine...
-## 1. 6 hours a day..
-   ### 1. (1 1/2 hours) react native learning
-   ### 2. (1/2 hours) open source contribution....
-   ### 3. (4 hours) research paper...
+## 1. 2 hours a day..
 
 
 
