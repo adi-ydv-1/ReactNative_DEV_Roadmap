@@ -53,3 +53,25 @@
 ## Opened Issues
 1.Vertical borders leave gaps on rounded Views [facebook/react-native](https://github.com/facebook/react-native/issues/33950)
 
+## 15 good companies to apply for:-
+   1.uber
+   2.Atlassian
+   3.Adobe
+   4.Appdynamics
+   5.intuit
+   6.salesforce
+   7.nuatnix
+   8.Tower
+   9.LinkedIn'
+   10.Phonepe
+   11.udaan
+   12.DE Shaw and co
+   13.Cred
+   14.Share Chat
+   15.Code nation
+   
+
+
+
+
+
