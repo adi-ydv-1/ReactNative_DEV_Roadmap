@@ -57,21 +57,22 @@ ZTM React native course:-Started 21 july 2022
 1.Vertical borders leave gaps on rounded Views [facebook/react-native](https://github.com/facebook/react-native/issues/33950)
 
 ## 15 good companies to apply for:-
-   1.uber  <br>
-   2.Atlassian <br>
-   3.Adobe <br>
-   4.Appdynamics <br>
-   5.intuit <br>
-   6.salesforce <br>
-   7.nuatnix <br>
-   8.Tower <br>
-   9.LinkedIn' <br>
-   10.Phonepe <br>
-   11.udaan <br>
-   12.DE Shaw and co <br>
-   13.Cred <br>
-   14.Share Chat <br>
-   15.Code nation <br>
+
+- [x]   1.uber  <br> 
+- [ ]   2.Atlassian <br>
+- [x]   3.Adobe <br>
+- [ ]   4.Appdynamics <br>
+- [ ]   5.intuit <br>
+- [ ]   6.salesforce <br>
+- [ ]   7.nuatnix <br>
+- [ ]   8.Tower <br>
+- [ ]   9.LinkedIn' <br>
+- [ ]   10.Phonepe <br>
+- [ ]   11.udaan <br>
+- [ ]   12.DE Shaw and co <br>
+- [ ]   13.Cred <br>
+- [ ]   14.Share Chat <br>
+- [ ]   15.Code nation <br>
    
 
 
