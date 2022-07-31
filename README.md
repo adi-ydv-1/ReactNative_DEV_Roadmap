@@ -56,7 +56,7 @@ ZTM React native course:-Started 21 july 2022
 ## Opened Issues
 1.Vertical borders leave gaps on rounded Views [facebook/react-native](https://github.com/facebook/react-native/issues/33950)
 
-## 15 good companies to apply for:-
+## Good companies to apply for:-
 
 - [x]   1.uber  <br> 
 - [ ]   2.Atlassian <br>
@@ -73,6 +73,11 @@ ZTM React native course:-Started 21 july 2022
 - [ ]   13.Cred <br>
 - [ ]   14.Share Chat <br>
 - [ ]   15.Code nation <br>
+- [ ]   16.Hicky 
+- [ ]   17.Luna
+- [ ]   18.viola
+- [ ]   19.ponder
+- [ ]   20.matchpool.
    
 
 
