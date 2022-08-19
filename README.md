@@ -55,6 +55,7 @@ ZTM React native course:-Started 21 july 2022
 
 ## Opened Issues
 1.Vertical borders leave gaps on rounded Views [facebook/react-native](https://github.com/facebook/react-native/issues/33950)
+  https://reactnative.dev/contributing/how-to-build-from-source#prerequisites
 
 ## Good companies to apply for:-
 
