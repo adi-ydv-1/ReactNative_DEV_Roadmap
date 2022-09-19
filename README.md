@@ -17,9 +17,9 @@
 2.Turing   <br>
 3.Remote.co <br>
 4.Flexjobs  <br>
-5.Indeed    <br>
+5.Indeed (active)   <br>
 6.Y combinator jobs<br>
-7.angel List<br>
+7.angel List (active)<br>
 
 ## Remote React Native Interview Questions..
 1.[react native interview questions...Knowledgehut](https://www.knowledgehut.com/interview-questions/react-native)<br>
