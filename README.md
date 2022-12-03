@@ -28,10 +28,10 @@
 ## Topics to know about 
 1.ui-core <br> 
 2.hooks core <br>
-3.storybook <br> (imp)
-4.react-native-gifted-chat<br>(imp) 
-5.react-navigation <br> (imp)
-6.firebase  <br> (imp)
+3.storybook (imp)<br>
+4.react-native-gifted-chat(imp)<br> 
+5.react-navigation(imp)<br>
+6.firebase (imp)<br>
 7.react-query <br>
 8.fire-cms <br>
 9.react native elements <br>  (imp)
