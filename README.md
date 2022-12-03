@@ -34,8 +34,8 @@
 6.firebase (imp)<br>
 7.react-query <br>
 8.fire-cms <br>
-9.react native elements <br>  (imp)
-10.react native paper v2 <br> (imp)
+9.react native elements (imp)<br> 
+10.react native paper v2 (imp) <br>
 
 ## Ways to learn..
 1.Open source contribution <br>
