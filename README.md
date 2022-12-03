@@ -26,16 +26,16 @@
 2.[react native interview questins educative](https://www.educative.io/blog/top-react-native-interview-questions)
 
 ## Topics to know about 
-1.ui-core <br>
+1.ui-core <br> 
 2.hooks core <br>
-3.storybook <br>
-4.react-native-gifted-chat <br>
-5.react-navigation <br> 
-6.firebase  <br>
+3.storybook <br> (imp)
+4.react-native-gifted-chat<br>(imp) 
+5.react-navigation <br> (imp)
+6.firebase  <br> (imp)
 7.react-query <br>
 8.fire-cms <br>
-9.react native elements <br>
-10.react native paper v2 <br>
+9.react native elements <br>  (imp)
+10.react native paper v2 <br> (imp)
 
 ## Ways to learn..
 1.Open source contribution <br>
