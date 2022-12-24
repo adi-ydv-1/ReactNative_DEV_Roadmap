@@ -79,6 +79,16 @@ ZTM React native course:-Started 21 july 2022
 - [ ]   18.viola
 - [ ]   19.ponder
 - [ ]   20.matchpool.
+- [ ]   21.Novo
+- [ ]   22.Method Financial
+- [ ]   23.Cushion AI
+- [ ]   24.Sum Up
+- [ ]   25.Sigma ratings
+- [ ]   26.SMBX
+- [ ]   27.Ramp
+- [ ]   28.Modern treasury
+- [ ]   29.Jar
+- [ ]   30.FirstCard
    
 
 
