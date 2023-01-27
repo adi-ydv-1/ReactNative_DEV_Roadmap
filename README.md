@@ -36,6 +36,11 @@
 8.fire-cms <br>
 9.react native elements (imp)<br> 
 10.react native paper v2 (imp) <br>
+11.node.js
+12.docker
+13.aws
+14.git
+15.android studio
 
 ## Ways to learn..
 1.Open source contribution <br>
