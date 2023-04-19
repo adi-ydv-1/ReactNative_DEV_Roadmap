@@ -98,7 +98,7 @@ ZTM React native course:-Started 21 july 2022
 
 ## five projects which can take my react native skill to advance level...
 
-1. Instagram clone
+1. Instagram clone(5 days)
 2. MealToGo app
 3. ai api gpt
 4. chat app
